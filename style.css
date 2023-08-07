@@ -4,17 +4,17 @@
     box-sizing: border-box;
 }
 .row{
-    background-color: rgb(241, 234, 248, 0.973);
+    background-color: rgba(241, 234, 248, 0.973);
     border-radius: 30px;
-    box-shadow: 12px 12px 27px;
+    box-shadow: 12px 12px 29px;
     width: auto;
     height: 37.5rem;
 }
 img{
     width: 120%;
     height: 37.5rem;
-    border-top-left-radius: 50%;
-    border-bottom-right-radius: 50%;
+    border-top-left-radius: 40%;
+    border-bottom-right-radius: 40%;
 }
 .login h1{
     font-size: 4rem;
@@ -22,8 +22,8 @@ img{
 }
 .inp{
     height: 50px;
-    border: none;
     width: 70%;
+    border: none;
     outline: none;
     border-radius: 60px;
     box-shadow: -26px -19px 30px -19px rgba(0,0,0,0.35);
